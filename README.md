@@ -3,7 +3,7 @@ A mock restaurant page that supports tabbed browsing to access About, Menu and C
 
 ![Screenshot](https://i.imgur.com/YLSvjsV.png)
 ## Quick Start
-Check it out [here!](https://github.com/JusGu/restaurant/)
+Check it out [here!](https://jusgu.github.io/restaurant/)
 
 ## Tools Used
  - HTML
