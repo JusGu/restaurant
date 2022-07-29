@@ -60,6 +60,10 @@ body{
     color: #F12A10;
 }
 
+#description > span {
+    color: #F12A10;
+}
+
 #tagline-wrapper > a{
     -webkit-appearance: button;
     -moz-appearance: button;
@@ -84,4 +88,6 @@ body{
     transition: all 0.2s ease;
 }
 
-
+#about,#menu,#contact {
+    cursor: pointer;
+}

@@ -1,5 +1,5 @@
 import logoImage from './images/logo.png';
-function component() {
+function createNav() {
     const element = document.createElement('div');
     const about = document.createElement('div');
     const menu = document.createElement('div');
@@ -22,4 +22,4 @@ function component() {
     element.appendChild(navbarwrapper);
     return element;
   }
-  export default component;
+  export default createNav;
